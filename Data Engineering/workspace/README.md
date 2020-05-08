@@ -11,6 +11,8 @@ The project will include a web app where an emergency worker can input a new mes
 Below is a screenshots of the web app.
 ![](Images/newplot.png)
 
+![](Images/messages_per_category.png)
+
 ### Project Details
 
 - Project Workspace - ETL
