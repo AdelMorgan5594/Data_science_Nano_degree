@@ -9,6 +9,7 @@ In the Project Workspace, I Found a data set containing real messages that were 
 The project will include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. This project will show off your software skills, including your ability to create basic data pipelines and write clean, organized code!
 
 Below is a screenshots of the web app.
+![](Images/newplot.png)
 
 
 ### Instructions:
@@ -34,6 +35,13 @@ Below is a screenshots of the web app.
 - Once your app is running (python run.py)
 - Go to http://localhost:3001 and the app will now run
 
-### Result example
+### Result examples
+The first sentence **(We are more than 50 people sleeping in the street. Please help us find home,food)**
+
+![](Images/First_sentence.png)
+
+The second sentence **(In 2020 there were a lot of disasters occurring. It started by the amazon forests fires, Earthquake, floods)**
+
+![](Images/Second_sentence.png)
 
 
